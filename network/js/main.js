@@ -489,7 +489,7 @@ function nodeActive(a) {
         d.attr.color = c[g].colour;
         a != g && e.push({
             id: g,
-            name: d.label,
+            name: d.attr.attributes.name,
             group: (c[g].name)? c[g].name:"",
             colour: c[g].colour
         })
