@@ -37,9 +37,9 @@ html,body {
 	height: 100%;
 	top: 0;
 	left: 0;
-	background-color: #eee;
+	background-color: #000000;
 	background-position: center center;
-	background-repeat: no-repeat;
+	background-repeat: repeat;
 	-webkit-touch-callout: none;
 	-webkit-user-select: none;
 	-khtml-user-select: none;
